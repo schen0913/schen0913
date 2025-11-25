@@ -1,5 +1,5 @@
  👋 Hey! Thanks for stopping by... 😄
-<p>🌱 My name is Shirley and I’m currently a junior studying computer science at University of North Florida
+<p>🌱 My name is Shirley and I’m currently a rising senior studying computer science at University of North Florida
 
 
 
